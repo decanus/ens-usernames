@@ -1,6 +1,5 @@
 pragma solidity ^0.4.24;
 
-import "../common/MerkleProof.sol";
 import "../common/Controlled.sol";
 import "../token/ERC20Token.sol";
 import "../token/ApproveAndCallFallBack.sol";
